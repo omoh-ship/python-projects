@@ -14,10 +14,10 @@ sign_in = driver.find_element_by_link_text("Sign in")
 sign_in.click()
 
 sign_in_text_field = driver.find_element_by_name("session_key")
-sign_in_text_field.send_keys("lomimine8@gmail.com")
+sign_in_text_field.send_keys("your_email@email.com")
 sign_in_text_field.send_keys(Keys.ARROW_DOWN)
 password = driver.find_element_by_name("session_password")
-password.send_keys("lomimine")
+password.send_keys("password")
 
 password.send_keys(Keys.ENTER)
 
