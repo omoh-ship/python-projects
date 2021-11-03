@@ -6,8 +6,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 BILLBOARD_URL = "https://www.billboard.com/charts/hot-100"
-SPOTIFY_CLIENT_ID = "f80793a6271143edb48a6e87bfb76f75"
-SPOTIFY_CLIENT_SECRET = "3edbce5e45e0453abc780a13cae3d2e2"
+SPOTIFY_CLIENT_ID = "spotify client id"
+SPOTIFY_CLIENT_SECRET = "spotify client secret"
 SPOTIPY_REDIRECT_URI = "http://localhost/"
 SCOPE="playlist-modify-private"
 
