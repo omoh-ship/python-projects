@@ -6,8 +6,8 @@ from selenium.webdriver.common.keys import Keys
 PROMISED_DOWN = 10.3
 PROMISED_UP = 7.65
 CHROME_DRIVER_PATH = "C:\Tools\chromedriver_win32\chromedriver.exe"
-TWITTER_EMAIL = "isedugloria@gmail.com"
-TWITTER_PASSWORD = "mvemjsu9p"
+TWITTER_EMAIL = "twitter email"
+TWITTER_PASSWORD = "twitter password"
 
 
 class InternetSpeedTwitterBot:
