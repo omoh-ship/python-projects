@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 
 LANGS_URL = "https://www.science.co.il/language/Locale-codes.php"
 URL = "https://google-translate1.p.rapidapi.com/language/translate/v2"
-RAPID_API_KEY = "5e893e750cmsh263d387d29c5bb6p1b2a6bjsn5a55019b6065"
+RAPID_API_KEY = "rapid-api-key"
 
 
 def find_lang_code(lang):
